@@ -3,10 +3,10 @@
 	url = https://github.com/amamFz/React.git
 [submodule "02-pizza-menu"]
 	path = 02-pizza-menu
-	url = https://github.com/amamFz/React.git
+	url = https://github.com/amamFz/02-pizza-menu
 [submodule "03-steps"]
 	path = 03-steps
-	url = https://github.com/amamFz/React.git
+	url = https://github.com/amamFz/03-steps
 [submodule "04-travel-list"]
 	path = 04-travel-list
-	url = https://github.com/amamFz/React.git
+	url = https://github.com/amamFz/04-travel-list
