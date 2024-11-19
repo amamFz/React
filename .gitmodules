@@ -1,12 +1,12 @@
-[submodule "Code/01-js-review"]
-	path = Code/01-js-review
+[submodule "01-js-review"]
+	path = 01-js-review
 	url = https://github.com/amamFz/React.git
-[submodule "Code/02-pizza-menu"]
-	path = Code/02-pizza-menu
+[submodule "02-pizza-menu"]
+	path = 02-pizza-menu
 	url = https://github.com/amamFz/React.git
-[submodule "Code/03-steps"]
-	path = Code/03-steps
+[submodule "03-steps"]
+	path = 03-steps
 	url = https://github.com/amamFz/React.git
-[submodule "Code/04-travel-list"]
-	path = Code/04-travel-list
+[submodule "04-travel-list"]
+	path = 04-travel-list
 	url = https://github.com/amamFz/React.git
